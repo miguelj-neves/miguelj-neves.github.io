@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "mjneves@gatech.edu"
-  github: "https://github.com/miguelj-neves"
-  twitter: "https://twitter.com/Waves2Miguel"
-  linkedin: "https://www.linkedin.com/in/miguel-neves-867875191/"
+  github: "miguelj-neves"
+  twitter: "Waves2Miguel"
+  linkedin: "miguel-neves-867875191"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
