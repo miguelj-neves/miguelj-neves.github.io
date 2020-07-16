@@ -1,7 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: "Miguel Neves\nResearch website"
+title: "\
+Miguel Neves\
+Research website\
+"
 
 # Short description of your site
 description: A window to my research in seismology
