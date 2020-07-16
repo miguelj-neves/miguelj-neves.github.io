@@ -2,7 +2,7 @@
 layout: post
 title: Building a research website
 subtitle: My first post
-tags: [website. milestones]
+tags: [website, milestones]
 comments: true
 ---
 
