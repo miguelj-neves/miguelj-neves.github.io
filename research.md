@@ -1,14 +1,13 @@
-
 ---
 layout: page
 title: Research
 subtitle: My present and past projects
 ---
 
-jnn
+## Research interests
 
-### Matched filter detection in Parkfield, California
+## Matched filter detection in Parkfield, California
 
-### Understanding seismicity in a Slow Deforming Region, Iberia
+## Understanding seismicity in a Slow Deforming Region, Iberia
 
-### Dynamic Earthquake Triggering in the East Africa
+## Dynamic Earthquake Triggering in the East Africa
