@@ -10,7 +10,7 @@ googleAnalytics = ""  # add your tracking id
   author = "Miguel Neves"
   description = "Miguel Neves seismology research page."
   favicon = "./resources/favicon.ico"  # path to a .ico to use as favicon
-  logo = "./resources/logo"  # url or path to a logo to put in the header
+  logo = "./resources/logo.jpg"  # url or path to a logo to put in the header
   [params.footer]
     text = "Powered by Hugo and Researcher theme"
     url = "https://github.com/ojroques/hugo-researcher"
