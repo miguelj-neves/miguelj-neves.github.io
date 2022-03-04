@@ -35,7 +35,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about/about.md"
+    url = "/about/"
     weight = 1
   [[menu.main]]
     name = "Resume"
