@@ -28,5 +28,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.PRIVATE_KEY }}
+          #github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: <miguelj-neves/miguelj-neves.github.io>
           publish_dir: ./public
