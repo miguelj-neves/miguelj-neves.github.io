@@ -14,13 +14,13 @@ I am also interested in studying "unusual" signals such as tremor and what they 
 
 ## Research Projects
 
-2004 M6 Parkfield Earthquake, California, Earthquake Sequence
+The 2004 M6 Parkfield, California, Earthquake Sequence
 
-An Improved Earthquake Catalog for Iberia
+Improving Iberia's Earthquake Catalog using Machine Learning
 
 Complex M5.1 Earthquake Rupture in Sparta, North Carolina
 
-Dynamic Earthquake Triggering
+Dynamic Earthquake Triggering in East Africa
 
 ## Publications
 
