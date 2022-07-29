@@ -8,7 +8,9 @@ title = "Miguel's research page"
 
 I am a PhD candidate of Geophysics at the Georgia Institute of Technology where I study Seismology.
 
-My work focuses on earthquake detection to swiftly analyze years of data and improve earthquake catalogs to better understand earthquake physics. I use this new data to gain insights on earthquake nucleation, aftershock propagation and earthquake interactions in both interplate and intraplate regions.
+Over the past x years, I have improved existing earthquake catalogues by developing and implementing code that accurately and efficiently detects earthquake signatures in multi-year data sets.
+
+I am working to improve existing earthquake catalogues by developing and implementing code that accurately and efficiently detects earthquakes in large volumes of seismic data. I use the improved catalogs to study earthquake physics in particular aftershock propagation, earthquake nucleation and earthquake interactions in both interplate and intraplate regions.
 
 I am also interested in studying "unusual" signals such as tremor and what they can reveal about "regular" earthquakes.
 
