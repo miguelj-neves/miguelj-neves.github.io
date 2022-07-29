@@ -24,6 +24,8 @@ Dynamic Earthquake Triggering
 
 ## Publications
 
-+ G. Lin, Z. Peng and M. Neves (2022), Comparisons of in situ Vp/Vs ratios and seismic char- acteristics between northern and southern California. Geophysical Journal International, 229(3), 2162–2174, doi: 10.1093/gji/ggac038.
-+ M. Neves, S. Custódio, Z. Peng and A. Ayorinde (2018), Earthquake triggering in southeast Africa following the 2012 Indian Ocean earthquake. Geophysical Journal International, 212(2), 1331-1343, doi: 10.1093/gji/ggx462.
++ G. Lin, Z. Peng and M. Neves (2022), Comparisons of in situ Vp/Vs ratios and seismic char- acteristics between northern and southern California. Geophysical Journal International, 229(3), 2162–2174, doi: [10.1093/gji/ggac038](https://10.1093/gji/ggac038).
+
++ M. Neves, S. Custódio, Z. Peng and A. Ayorinde (2018), Earthquake triggering in southeast Africa following the 2012 Indian Ocean earthquake. Geophysical Journal International, 212(2), 1331-1343, doi: [10.1093/gji/ggx462](https://10.1093/gji/ggx462).
+
 + M. Neves, Z. Peng and G. Lin (in rev.), A High-Resolution Earthquake Catalog for the 2004 M6 Parkfield Earthquake Sequence using a Matched Filter Technique.
