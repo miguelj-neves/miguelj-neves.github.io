@@ -35,7 +35,7 @@ googleAnalytics = ""  # add your tracking id
     url = "https://github.com/miguelj-neves"
 [permalinks]
   "/" = "/:filename"
-  posts = '/:year/:month/:title/'
+#  posts = '/:year/:month/:title/'
 
 [menu]
   [[menu.main]]
@@ -45,7 +45,7 @@ googleAnalytics = ""  # add your tracking id
   [[menu.main]]
     identifier = "research"
     name = "Research"
-    url = "/research/"
+    url = "/research"
     weight = 2
   [[menu.main]]
     name = "Resume"
