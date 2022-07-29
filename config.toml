@@ -45,7 +45,7 @@ googleAnalytics = ""  # add your tracking id
   [[menu.main]]
     identifier = "research"
     name = "Research"
-    url = "/research"
+    url = "/research/"
     weight = 2
   [[menu.main]]
     identifier = "research1"
