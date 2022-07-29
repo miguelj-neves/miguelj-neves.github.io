@@ -1,7 +1,5 @@
 title = "Miguel Neves"
-subtitle = "PhD Candidate in Seismology"
 baseURL = "https://miguelj-neves.github.io"
-#baseURL = "https://miguelj-neves.github.io/about"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -10,6 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Miguel Neves"
+  subtitle = "PhD Candidate in Seismology"
   description = "Miguel Neves' seismology research page."
   favicon = "./resources/favicon.ico"  # path to a .ico to use as favicon
   logo = "/favicon-32x32.png"  # url or path to a logo to put in the header
