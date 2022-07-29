@@ -43,9 +43,9 @@ googleAnalytics = ""  # add your tracking id
     url = "/about/"
     weight = 1
   [[menu.main]]
+    identifier = "research"
     name = "Research"
     url = "/research"
-    identifier = "research"
     weight = 2
   [[menu.main]]
     identifier = "research1"
@@ -53,6 +53,12 @@ googleAnalytics = ""  # add your tracking id
     url = "/research/parkfield"
     parent = "research"
     weight = 1
+  [[menu.main]]
+    identifier = "research2"
+    name = "Iberia"
+    url = "/research/iberia"
+    parent = "research"
+    weight = 2
   [[menu.main]]
     name = "Resume"
     url = "/cv_mneves.pdf"
