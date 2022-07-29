@@ -1,4 +1,5 @@
 title = "Miguel Neves"
+subtitle = "PhD Candidate in Seismology"
 baseURL = "https://miguelj-neves.github.io"
 #baseURL = "https://miguelj-neves.github.io/about"
 theme = "researcher"
