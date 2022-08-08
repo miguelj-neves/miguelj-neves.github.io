@@ -10,7 +10,7 @@ I am a PhD candidate of Geophysics at the Georgia Institute of Technology where 
 
 I am working to improve existing earthquake catalogues by developing and implementing code that accurately and efficiently detects earthquakes in large volumes of seismic data. I use the improved catalogs to study earthquake physics, with particular attention to aftershock propagation, earthquake nucleation and earthquake interactions in both interplate and intraplate regions.
 
-"Unusual" seismic signals such as tremor and what they can reveal about "regular" earthquakes and the earthquake cycle are another research interest.
+"Non-classic" seismic signals such as tremor, remote triggering and induced earthquakes and what they can reveal about "regular" earthquakes and the earthquake cycle are another research interest.
 
 ## Research Projects
 
