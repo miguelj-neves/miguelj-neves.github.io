@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://miguelj-neves.github.io/sitemap.xml
