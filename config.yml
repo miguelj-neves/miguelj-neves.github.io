@@ -1,0 +1,127 @@
+baseURL: "https://miguelj-neves.github.io" 
+title: Miguel Neves
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: publications/
+          weight: 1
+        #- name: Courses
+        #  url: courses/
+        #  weight: 2
+        - name: Data
+          url: data/
+          weight: 2 
+        #- name: Newsletter
+        #  url: https://pmichaillat.substack.com
+        #  weight: 4
+
+params:
+    description: "PostDoc at GéoAzur. I use seismology and deep learning to improve catalogs and study complex earthquake sequences. Current focus Haiti and RaspberryShakes"
+    author: Miguel Neves
+    logo: "favicon-32x32.png"
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Miguel Neves
+          subtitle: "
+          I am a Postdoctoral Researcher at GéoAzur, Université Côte d'Azur where I am using observational seismology and deep learning to improve earthquake catalogs and study complex earthquake sequences.
+          <br />
+          <br />
+          
+          **Research interests:**
+
+            * Data mining and machine learning applications in seismology
+
+            * Complex earthquake sequences
+
+            * External stressors and seismicity
+            
+            * Slowly deforming regions"
+
+          imageUrl: "photo_square.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Miguel Neves
+          buttons:
+            - name: Publications
+              url: publications/
+            #- name: Courses
+            #  url: courses/
+            - name: Data
+              url: data/
+            #- name: Newsletter
+            #  url: https://pmichaillat.substack.com
+            - name: Tags
+              url: tags/
+            #- name: Archive
+            #  url: archive/
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:neves@geoazur.unice.fr
+        #- name: Location
+        #  url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=fxHGJCQAAAAJ&hl=en&oi=sra
+        #- name: YouTube
+        #  url: https://www.youtube.com/@pmichaillat
+        - name: GitHub
+          url: https://github.com/miguelj-neves
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/miguel-neves-867875191/
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Miguel Neves"
+      icon: favicon-32x32.png
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
