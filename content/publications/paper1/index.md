@@ -1,7 +1,7 @@
 ---
 title: "Earthquake triggering in southeast Africa following the 2012 Indian Ocean earthquake" 
 date: "24 October 2017"
-tags: ["Africa", "Earthquake interaction, forecasting and prediction", "Seismicity and tectonics"]
+tags: ["Africa", "Earthquake interaction", "Dynamic triggering", "Statistical seismology"]
 author: "Miguel Neves, Susana Custódio, Zhigang Peng and Adebayo Ayorinde"
 description: "In this paper we present evidence of earthquake dynamic triggering in southeast Africa. Published in Geophysical Journal International, 2018." 
 summary: "In this paper we present evidence of earthquake dynamic triggering in southeast Africa." 

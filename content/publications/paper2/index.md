@@ -1,6 +1,6 @@
 ---
 title: "A High-Resolution Earthquake Catalog for the 2004 Mw 6 Parkfield Earthquake Sequence Using a Matched Filter Technique" 
-date: "24 October 2017"
+date: "22 November 2022"
 tags: ["Parkfield", "Earthquake interaction", "Earthquake detection", "Statistical seismology", "Seismicity and tectonics"]
 author: "Miguel Neves, Zhigang Peng and Guoqing Lin"
 description: "We present the high-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog for the 2004 Mw 6 Parkfield earthquake sequence in central California. Published in Seismological Research Letters, 2022." 
