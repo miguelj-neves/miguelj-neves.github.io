@@ -85,7 +85,7 @@ params:
             #  url: archive/
     socialIcons:
         - name: CV
-          url: cv_mneves.pdf
+          url: cv_mneves_jan2025.pdf
         - name: Email
           url: mailto:neves@geoazur.unice.fr
         #- name: Location

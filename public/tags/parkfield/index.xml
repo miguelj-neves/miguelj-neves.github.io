@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Parkfield on Miguel Neves</title>
+    <link>https://miguelj-neves.github.io/tags/parkfield/</link>
+    <description>Recent content in Parkfield on Miguel Neves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://miguelj-neves.github.io/tags/parkfield/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A High-Resolution Earthquake Catalog for the 2004 Mw 6 Parkfield Earthquake Sequence Using a Matched Filter Technique</title>
+      <link>https://miguelj-neves.github.io/publications/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelj-neves.github.io/publications/paper2/</guid>
+      <description>We present the high-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog for the 2004 Mw 6 Parkfield earthquake sequence in central California. Published in Seismological Research Letters, 2022.</description>
+    </item>
+    
+    <item>
+      <title>High-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog</title>
+      <link>https://miguelj-neves.github.io/data/data1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelj-neves.github.io/data/data1/</guid>
+      <description>We present the high-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog for the 2004 Mw 6 Parkfield earthquake sequence in central California. A relocated catalog that spans from 6 November 2003 to 28 March 2005 and contains 13,914 earthquakes, about three times the number of events listed in the Northern California Seismic Network catalog.</description>
+    </item>
+    
+  </channel>
+</rss>
