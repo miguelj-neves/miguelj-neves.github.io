@@ -63,10 +63,16 @@ params:
               <br />
           
               **Research interests:**
-                * High‑resolution earthquake catalogs (machine‑learning and data‑driven methods)
-                * Complex earthquake sequences
-                * External stressors, anthropogenic activity, and seismicity
-                * Real‑time and operational seismic monitoring
+              
+              <div style="padding-left: 1rem; padding-right: 1rem;">
+                
+              <ul style="padding-left: 0.1em; list-style-position: outside;">
+              <li> High‑resolution earthquake catalogs (machine‑learning and data‑driven methods) </li>
+              <li> Complex earthquake sequences </li>
+              <li> External stressors, anthropogenic activity, and seismicity </li>
+              <li> Real‑time and operational seismic monitoring </li>
+              </ul>
+              </div>
 
           imageUrl: "miguel_photo.jpg"
           imageWidth: 160
@@ -115,8 +121,6 @@ params:
         text: "Miguel Neves"
         icon: favicon-32x32.png
         iconHeight: 18
-    customCSS:
-        - css/custom.css
 
 
 markup:
