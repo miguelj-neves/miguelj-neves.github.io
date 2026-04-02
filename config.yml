@@ -127,3 +127,7 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+caches:
+  images:
+    dir: :cacheDir/images
