@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Seismicity and Tectonics on Miguel Neves</title>
-    <link>https://miguelj-neves.github.io/tags/seismicity-and-tectonics/</link>
+    <link>http://localhost:1313/tags/seismicity-and-tectonics/</link>
     <description>Recent content in Seismicity and Tectonics on Miguel Neves</description>
     <generator>Hugo -- 0.159.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://miguelj-neves.github.io/tags/seismicity-and-tectonics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/seismicity-and-tectonics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A High-Resolution Earthquake Catalog for the 2004 Mw 6 Parkfield Earthquake Sequence Using a Matched Filter Technique</title>
-      <link>https://miguelj-neves.github.io/publications/paper2/</link>
+      <link>http://localhost:1313/publications/paper2/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://miguelj-neves.github.io/publications/paper2/</guid>
+      <guid>http://localhost:1313/publications/paper2/</guid>
       <description>We present the high-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog for the 2004 Mw 6 Parkfield earthquake sequence in central California. Published in Seismological Research Letters, 2022.</description>
     </item>
   </channel>

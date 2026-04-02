@@ -112,9 +112,12 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Miguel Neves"
-      icon: favicon-32x32.png
-      iconHeight: 18
+        text: "Miguel Neves"
+        icon: favicon-32x32.png
+        iconHeight: 18
+    customCSS:
+        - css/custom.css
+
 
 markup:
     goldmark:

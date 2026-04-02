@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://miguelj-neves.github.io/publications/paper2/</loc>
+    <loc>http://localhost:1313/publications/paper2/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/publications/paper1/</loc>
+    <loc>http://localhost:1313/publications/paper1/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/data/</loc>
+    <loc>http://localhost:1313/data/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/earthquake-detection/</loc>
+    <loc>http://localhost:1313/tags/earthquake-detection/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/earthquake-interaction/</loc>
+    <loc>http://localhost:1313/tags/earthquake-interaction/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/data/data1/</loc>
+    <loc>http://localhost:1313/data/data1/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/parkfield/</loc>
+    <loc>http://localhost:1313/tags/parkfield/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/seismicity-and-tectonics/</loc>
+    <loc>http://localhost:1313/tags/seismicity-and-tectonics/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/statistical-seismology/</loc>
+    <loc>http://localhost:1313/tags/statistical-seismology/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/template-matching/</loc>
+    <loc>http://localhost:1313/tags/template-matching/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/courses/course1/</loc>
+    <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/courses/</loc>
+    <loc>http://localhost:1313/courses/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/courses/course2/</loc>
+    <loc>http://localhost:1313/courses/course2/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/africa/</loc>
+    <loc>http://localhost:1313/tags/africa/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/tags/dynamic-triggering/</loc>
+    <loc>http://localhost:1313/tags/dynamic-triggering/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miguelj-neves.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://miguelj-neves.github.io/location/</loc>
+    <loc>http://localhost:1313/location/</loc>
   </url><url>
-    <loc>https://miguelj-neves.github.io/officehours/</loc>
+    <loc>http://localhost:1313/officehours/</loc>
   </url>
 </urlset>
