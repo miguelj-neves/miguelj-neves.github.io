@@ -8,3 +8,13 @@
     margin-left: 0;
   }
 }
+
+
+/* Fix profileMode text padding on mobile */
+@media (max-width: 768px) {
+  .profile_inner {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
