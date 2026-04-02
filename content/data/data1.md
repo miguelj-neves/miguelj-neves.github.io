@@ -1,6 +1,6 @@
 ---
 title: "High-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog" 
-date: "22 November 2022"
+date: "2022-11-22"
 tags: ["Parkfield", "Template matching", "Earthquake detection"]
 author: "Miguel Neves, Zhigang Peng and Guoqing Lin"
 description: "We present the high-resolution Parkfield matched filter relocated earthquake (PKD-MR) catalog for the 2004 Mw 6 Parkfield earthquake sequence in central California. A relocated catalog that spans from 6 November 2003 to 28 March 2005 and contains 13,914 earthquakes, about three times the number of events listed in the Northern California Seismic Network catalog."

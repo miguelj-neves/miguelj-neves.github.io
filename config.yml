@@ -24,8 +24,9 @@ menu:
         #  url: https://pmichaillat.substack.com
         #  weight: 4
 
+
 params:
-    description: "PostDoc at GéoAzur. I use seismology and deep learning to improve catalogs and study complex earthquake sequences. Current focus Haiti and RaspberryShakes"
+    description: "Observational seismologist working at the interface of seismic data analysis and machine learning, with a focus on high‑resolution earthquake catalogs and complex seismic sequences."
     author: Miguel Neves
     logo: "favicon-32x32.png"
     # googleAnalyticsID: "G-XXXXX"
@@ -51,20 +52,21 @@ params:
     profileMode:
           enabled: true
           title: Miguel Neves
-          subtitle: "
-          I am a Postdoctoral Researcher at GéoAzur, Université Côte d'Azur where I am using observational seismology and deep learning to improve earthquake catalogs and study complex earthquake sequences.
-          <br />
-          <br />
+          subtitle: |
+              **Observational Seismologist**                             
+              University of Bergen, Norway
+              <br />
+              <br />
+
+              I am an observational seismologist working at the interface of seismic data analysis and machine learning. My research focuses on extracting high‑resolution information from continuous seismic data to improve earthquake catalogs, understand complex seismic sequences, and advance seismic monitoring, particularly in slowly deforming regions.
+              <br />
+              <br />
           
-          **Research interests:**
-
-            * Data mining and machine learning applications in seismology
-
-            * Complex earthquake sequences and slowly deforming regions
-
-            * External stressors and seismicity
-            
-            * Real-time seismology"
+              **Research interests:**
+                * High‑resolution earthquake catalogs (machine‑learning and data‑driven methods)
+                * Complex earthquake sequences
+                * External stressors, anthropogenic activity, and seismicity
+                * Real‑time and operational seismic monitoring
 
           imageUrl: "miguel_photo.jpg"
           imageWidth: 160
@@ -87,7 +89,7 @@ params:
         - name: CV
           url: cv_mneves_jan2025.pdf
         - name: Email
-          url: mailto:neves@geoazur.unice.fr
+          url: mailto:miguel.neves@uib.no
         #- name: Location
         #  url: location/
         #- name: Office Hours
